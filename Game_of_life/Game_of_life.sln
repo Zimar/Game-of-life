@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game_of_life", "Game_of_life\Game_of_life.csproj", "{A4825F14-95E2-4FF6-B014-7A2458923FBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4825F14-95E2-4FF6-B014-7A2458923FBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4825F14-95E2-4FF6-B014-7A2458923FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4825F14-95E2-4FF6-B014-7A2458923FBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4825F14-95E2-4FF6-B014-7A2458923FBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
